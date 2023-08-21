@@ -2,10 +2,13 @@ var arr = [
     'arc.JPG',
     'eiffel.JPG',
     'gardens.JPG',
-    'Lindenhof.JPG',
     'lisa.JPG',
     'mirrors.JPG',
-    'Quaibrucke.JPG'
+    'Castle.JPG',
+    'Liberty.JPG',
+    'Nike.JPG',
+    'Notre.JPG',
+    'Venus.JPG',
 ]
 
 
@@ -15,4 +18,4 @@ function rand_img_gen() {
     document.getElementById('rand_img').src = `./images/${show}`;
 }
 
-setInterval(rand_img_gen, 7000);
+setInterval(rand_img_gen, 4000);
