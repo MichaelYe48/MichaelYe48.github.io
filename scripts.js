@@ -7,7 +7,7 @@ var arr = [
     'Castle.JPG',
     'Liberty.JPG',
     'Nike.JPG',
-    'Notre.JPG',
+    'Notre.jpeg',
     'Venus.JPG',
 ]
 
