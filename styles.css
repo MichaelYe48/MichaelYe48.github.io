@@ -52,12 +52,12 @@ main {
     top: 0;
     bottom: 0;
     margin: auto;
-    font-size: 100px;
+    font-size: 95px;
 }
 
 footer {
     position: relative;
-    
+    font-size: 20px;
 }
 
 .side_nav {
@@ -93,4 +93,12 @@ p {
 @media screen and (max-height: 450px) {
     .side_nav {padding-top: 15px;}
     .side_nav a {font-size: 18px;}
+}
+
+#rand_img {
+    border: 5px solid #000000;
+}
+
+* {
+    font-family: 'Playfair Display', serif;
 }
